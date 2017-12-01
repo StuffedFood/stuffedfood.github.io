@@ -26,6 +26,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 facebook_url:  https://www.facebook.com/stuffed.stuffers
 
+phone_amber: 970-531-7444
+phone_jess: 308-991-1259
+
 # Build settings
 markdown: kramdown
 theme: minima
