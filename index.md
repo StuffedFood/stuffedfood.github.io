@@ -5,6 +5,6 @@
 layout: home
 title: Come Get Stuffed
 ---
-## Welcome to STUFFED!
+<!-- ## Welcome to STUFFED! -->
 
 STUFFED Food Trailer will cater to the needs of the busy, on the go individual who is looking for a fast, healthy, affordable, hand held meal so that they can get to what matters most; the mountain, the river, the trails. Stuffed wishes to provide food that nourishes the&nbsp;soul.
