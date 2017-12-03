@@ -1,3 +1,9 @@
+#intro {
+  h1 {
+    text-shadow: 2px 2px 2px rgba(0,0,0, 0.6);
+  }
+}
+
 #front-logo {
   background-image: url('/images/logo/SuffedOutlineShadow400.png');
   background-repeat: no-repeat;
@@ -8,3 +14,9 @@
   width: 100%;
 }
 
+#wrapper > .bg {
+  // background-color:		_palette(wrapper-bg);
+  background-color: #1c2759;
+  background-image:		url('../../images/overlay.png'),	linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)),	url('../images/photos/inhand-fade.jpg');
+  // background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+}
