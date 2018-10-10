@@ -2,4 +2,9 @@
 # Site-specific style
 ---
 
+.hide {
+  visibility: hidden;
+  display: none;
+}
+
 @import "misc";
